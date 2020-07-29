@@ -96,3 +96,7 @@ C:\Users\DJ185043\OneDrive - NCR Corporation\Desktop\SendMessage\SendMessage\bin
 C:\Users\DJ185043\OneDrive - NCR Corporation\Desktop\SendMessage\SendMessage\bin\System.IdentityModel.Tokens.Jwt.xml
 C:\Users\DJ185043\OneDrive - NCR Corporation\Desktop\SendMessage\SendMessage\bin\System.Web.Http.Cors.xml
 C:\Users\DJ185043\OneDrive - NCR Corporation\Desktop\SendMessage\SendMessage\bin\Twilio.xml
+C:\Users\DJ185043\Source\Repos\Whatsapp-Message-Api\SendMessage\obj\Debug\SendMessage.csprojAssemblyReference.cache
+C:\Users\DJ185043\Source\Repos\Whatsapp-Message-Api\SendMessage\obj\Debug\SendMessage.csproj.CoreCompileInputs.cache
+C:\Users\DJ185043\Source\Repos\Whatsapp-Message-Api\SendMessage\obj\Debug\SendMessage.dll
+C:\Users\DJ185043\Source\Repos\Whatsapp-Message-Api\SendMessage\obj\Debug\SendMessage.pdb
